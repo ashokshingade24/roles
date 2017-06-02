@@ -1,0 +1,5 @@
+---
+  
+  - sudo docker pull jeygeethan/zookeeper-cluster
+  
+  - sudo docker run -it -d jeygeethan/zookeeper-cluster
